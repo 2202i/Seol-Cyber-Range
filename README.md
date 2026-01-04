@@ -1,2 +1,2 @@
-# Seol-s-Cyber-Range
+# Seol's Cyber Range
 Still under construction
